@@ -1,0 +1,12 @@
+{
+  "newsList" : {
+    "notifications" : "Notifications",
+    "markAllRead" : "Mark all read",
+    "featured" : "Featured",
+    "processing" : "We are processing your request...",
+    "latest" : "Latest news",
+    "day" : "day ago",
+    "hour" : "hour",
+    "hours" : "hours"
+  }
+}
